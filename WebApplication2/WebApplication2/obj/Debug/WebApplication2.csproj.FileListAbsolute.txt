@@ -1,0 +1,320 @@
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\EntityFramework.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\EntityFramework.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\Ninject.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\Ninject.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Net.Http.Extensions.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Net.Http.Primitives.dll
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Net.Http.Extensions.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\bin\System.Net.Http.Primitives.xml
+G:\Sashulikin\Microsoft Visual Studio\RepositoriyProjects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.App.config
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\WebApplication2.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\EntityFramework.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\Ninject.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Net.Http.Extensions.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Net.Http.Primitives.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\EntityFramework.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\Ninject.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Net.Http.Extensions.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Net.Http.Primitives.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.App.config
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+G:\Sashulikin\Microsoft Visual Studio\CopyOfFyzruk\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\Ninject.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Net.Http.Extensions.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Net.Http.Primitives.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\Ninject.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Net.Http.Extensions.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Net.Http.Primitives.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.App.config
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\MaxSheep\Downloads\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\Ninject.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Net.Http.Extensions.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Net.Http.Primitives.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\Ninject.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Net.Http.Extensions.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Net.Http.Primitives.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.App.config
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Study\FyzrukShop-master\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
